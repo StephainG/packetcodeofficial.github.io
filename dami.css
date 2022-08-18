@@ -1,0 +1,340 @@
+body{
+    background-color: #F6FBF4;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.navb{
+    padding: 0;
+}
+.navbar_ankara{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    
+}
+.navigation{
+    border: none;
+    margin: 0;
+    background-color: #3F2933;
+    border-radius: 0;
+    
+}
+.landingPage{
+    background-color: #3F2933;
+}
+.landingPage2{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.landingPage_text{
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: 'Italianno', cursive;
+    color: #DBCAB7;
+    line-height: 7.5rem;
+    margin-top: 60px;
+    margin-bottom: 40px; 
+}
+.for_contact{
+    padding: 10px 30px;
+    font-size: larger;
+    background-color: #D7727C;
+    border: 0;
+}
+.CtA-button{
+    padding: 15px 45px;
+    background-color: #D7727C;
+    border: 0;
+    padding: 15px 80px;
+}
+.new_collection{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    
+}
+.collection-row{
+    padding: 5px 24px;
+}
+.collection-column{
+    padding: 0 12px;   
+}
+h2{
+    color: #00000071;
+    font-size: 25px;
+    font-weight: 200;
+    background-color: white;
+    padding: 10px 0 10px 0;
+    margin: 0;
+}
+p{
+    color: #00000071;
+}
+.best-seller-section{
+    background-color: #BDA06A;
+}
+.best-seller-CtA{
+    padding: 10px 50px;
+    background-color: #D7727C;
+    border: 0;
+    margin-top: 20px;
+}
+.best-seller-CtA1{
+    padding: 10px 50px;
+    background-color: #D7727C;
+    border: 0;
+}
+
+
+.our-products{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.new-collection-button{
+    width: 100%;
+    position: absolute;
+    bottom: 50px;
+    right: 0px;
+}
+.collection-button{
+    padding: 15px 90px;
+    background-color: white;
+    color: #00000071;
+    border: 0;
+}
+.collection-button:hover{
+    background-color: #DBCAB7;
+    padding: 15px 95px;
+}
+
+a{
+    font-weight: normal;
+    font-size: medium;
+    color: #DBCAB7;
+}
+
+
+.ankara1{
+    border-radius: 100%;
+}
+.span{
+    color: rgba(255, 4, 4, 0.836);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#contact{
+    color: white;
+    background-color: rgba(255, 4, 4, 0.836);
+}
+#button{
+    padding: 15px 35px;
+}
+
+/* .Ncol{
+    position: relative;
+    
+} */
+
+.but{
+    padding: 30px;
+}
+
+.jumbo{
+    padding: 70px 100px;
+    
+}
+
+.landingImage{
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 20px;
+}
+.flex{
+    display: flex;
+    margin: 0;
+}
+
+.Ncol{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.glyphicon-star{
+    color: #BDA06A;
+}
+/* .New_collections{
+    background-color: #FFDEDE;
+    border-top: 0;
+} */
+
+
+.fabrics{
+    padding: 50px;
+}
+.text-center1{
+    background-color: white;
+}
+.top-deal{
+    background-color: #BDA06A;
+}
+.top-deal-row{
+    padding: 50px;
+}
+.deal-of-the-day{
+    padding: 40px;
+    padding-top: 10px;
+}
+.date{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 80px;
+    height: 80px;
+    margin: 10px;  
+}
+.span1{
+    font-size: 25px;
+}
+.img1{
+    height: 100px;
+}
+
+
+/* for time left */
+.first{
+    display: flex;
+    padding: 20px 0;
+    width: 272px;
+}
+.second{
+    padding: 20px;
+    width: 80px;
+    background-color: #DBCAB7;
+    margin: 5px 10px 5px 0;
+    border-radius: 100%;
+}
+.third{
+    text-align: center;
+}
+.deal-date{
+    font-weight: bolder;
+}
+.deal-of-the-day-img{
+    margin: 0 auto;
+}
+.display-img{
+    height: 100%;
+    width: 100%;
+}
+
+
+/* Footer section */
+.footer{
+    background-color: #252C58;
+    padding: 50px;
+    text-align: center;
+}
+.follow{
+    background-color: white;
+    width: 50%;
+    padding: 0;
+    text-align: center;
+    margin: 10px auto;
+}
+.footer-list{
+    margin-top: 25px;
+}
+.foot{
+    color: rgb(202, 201, 201);
+    font-weight: normal;
+}
+.foot:hover{
+    color: #FFDEDE;
+}
+
+/* for carousel */
+.container-fluid{
+    padding: 0;
+}
+hr{
+    border: 1px solid #BDA06A;
+    margin: 0 auto;
+    width: 50%;
+}
+.testimonial{
+    padding: 2% 5%;
+    background-color: white;
+    text-align: center;
+    margin-top: 0;
+}
+.testimonial-text{
+    font-size: 30px;
+    width: 50%;
+    margin: 0 auto;
+}
+.testimonial-image{
+    width: 20%;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* hidden-button */
+.best-seller-CtA1{
+    display: none;
+}
+
+@media (max-width: 844px) {
+    .jumbo{
+        text-align: center;
+    }
+    .ankara1{
+        display: none;
+    }
+    .best{
+        font-size: 40px;
+        font-weight: bold;
+        line-height: 4.5rem;
+    }
+    .jumbo{
+        padding: 20px;
+    }
+    .landingImage{
+        padding: 0;
+        margin: 0;
+    }
+    .Ncolbut{
+        padding: 5px 30px;
+    }
+    .collection-button{
+        padding: 10px 50px;
+        background-color: white;
+        color: #00000071;
+        border: 0;
+    }
+    .deal-of-the-day{
+        text-align: center;
+    }
+    .first{
+        margin: 0 auto;
+    }
+    .follow{
+        width: 100%;
+    }
+    .deal-of-the-day-img{
+        width: 304px;
+        height: 304px;
+        margin-bottom: 40px;
+    }
+    .deal-of-the-day-paragraph{
+        width: 100%;
+    }
+    .testimonial-text{
+        width: 100%;
+    }
+    .best-seller-CtA{
+        display: none;
+    }
+    .best-seller-CtA1{
+        margin: 20px auto;
+        display: block;
+    }
+}
